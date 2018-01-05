@@ -1,0 +1,30 @@
+body{
+	background: pink;
+/*	background: url(https://images.alphacoders.com/353/thumb-1920-35303.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+h1 {
+	color: #FFAB00;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed rgb(200, 90, 150);
+
+/*width
+color
+style*/
+
+}
+
+li {
+
+	color: blue;
+}
+
+h4 {
+
+	color: rgb(200, 90, 150);
+}
